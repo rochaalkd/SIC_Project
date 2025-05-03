@@ -1,0 +1,12 @@
+ttkbootstrap
+markdown
+fpdf
+beautifulsoup4
+matplotlib
+numpy
+pandas
+seaborn
+scipy
+sympy
+pillow
+
